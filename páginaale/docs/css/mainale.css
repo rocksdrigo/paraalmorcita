@@ -1,0 +1,32 @@
+h1 {
+	color: #2ecc71;
+	font-family: : Helvetica, serif;
+	text-align: center;
+}
+
+body{
+	background: #d5f5e3;
+	font-size: 125%;
+}
+
+p {
+	background-color: #186a3b;
+}
+
+h3 {
+	color: #421a00;
+	font-size: 150%;
+
+}
+
+#gold {
+	color: gold;
+	font-family: : Helvetica, serif;
+	background-color: black;
+}
+
+footer {
+	text-align: center;
+	background-color: #2ecc71;
+	font-size: 70%;
+}
