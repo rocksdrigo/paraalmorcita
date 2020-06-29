@@ -48,12 +48,14 @@ a:active{
 }
 
 p {
+	margin: 5%;
 	font-family: Open Sans, Helvetica, serif;	
 	color: #222725;
 	text-align: justify;
 }
 
 h3 {
+	margin: 5%;
 	font-family: Open Sans, Helvetica, serif;
 	color: #474C5C;
 	font-size: 150%;
