@@ -1,0 +1,86 @@
+header{
+	padding-bottom: 15px;
+	background: #bee3db;
+	text-align: center;
+}
+
+
+ h1 {
+	color: #555b6e;
+	font-family: Alegreya, Merriweather, Tisa, serif;
+	text-align: center;
+	font-size: 300%;
+	display: inline-block;
+}
+
+body{
+	background: #faf9f9;
+	font-size: 125%;
+	margin: 1%;
+}
+
+a {
+	font-family: Open Sans, Helvetica, serif;
+    display: inline-block;
+    font-weight: bold;
+    color: #ffffff;
+    background: #555B6E;
+    width: 170px;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+    margin:0 auto;  /*Centers the element*/
+    margin-top: 10px;
+}
+/*When mouse hovers over link*/
+a:hover{  
+    background: #F26419;
+    color: #faf9f9;
+}
+/*When user tabs to this link*/
+a:focus{ 
+    background: #F26419;
+    color: #faf9f9;
+}
+/*When user clicks and holds mouse button on this link*/
+a:active{ 
+    border: 3px solid #000000;
+}
+
+p {
+	font-family: Open Sans, Helvetica, serif;	
+	color: #222725;
+	text-align: justify;
+}
+
+h3 {
+	font-family: Open Sans, Helvetica, serif;
+	color: #474C5C;
+	font-size: 150%;
+
+}
+
+figure {
+	float: right;
+   display: block;
+   clear: both;
+}
+
+#gold {
+	color: #222725;
+	font-family: : Helvetica, serif;
+	font-size: small;
+}
+
+i {
+	color: #555B6E;
+}
+
+footer {
+	font-family: Open Sans, Helvetica, serif;
+	text-align: center;
+	background-color: #2ecc71;
+	font-size: 70%;
+	clear: both;
+}
+
