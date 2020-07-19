@@ -407,6 +407,7 @@ h1{color:white;}
 		overflow: hidden;
 		padding: 5em 0em;
 		text-align: center;
+		opacity: .6;
 	}
 	
 	#copyright p
@@ -422,6 +423,13 @@ h1{color:white;}
 	{
 		text-decoration: none;
 		color: rgba(255,255,255,.7);
+	}
+	#copyright:hover
+	{
+		overflow: hidden;
+		padding: 4em 0em;
+		text-align: center;
+		opacity: 1;
 	}
 
 /*********************************************************************************/
@@ -566,7 +574,6 @@ h1{color:white;}
 
 	#footer
 	{
-		opacity: .6;
 		color: #ADADAD;
 		transition: 2s;
 	}
@@ -632,7 +639,8 @@ h1{color:white;}
 
 
 	footer:hover {
-	opacity: 1;
+		opacity: 1;
+		color: white;
 	}
 
 
