@@ -274,7 +274,12 @@ hr {
 		font-size: 3em;
 		transition: font-size 1s;
 	}
-	
+	#logo h1:hover
+	{
+		font-size: 140%;
+	}
+
+
 	#logo p 
 	{
 		letter-spacing: 0.10em;
