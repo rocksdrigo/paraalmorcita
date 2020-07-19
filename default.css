@@ -565,7 +565,14 @@ h1{color:white;}
 		color: #ADADAD;
 		transition: 2s;
 	}
+	footer
+	{
+		opacity: .6;
+		color: #ADADAD;
+		transition: 2s;
+	}
 	
+
 	#footer .title h2
 	{
 		font-weight: 400;
@@ -619,7 +626,7 @@ h1{color:white;}
 	}
 
 
-	#footer {
+	footer:hover {
 	opacity: 1;
 	}
 
