@@ -288,7 +288,7 @@ hr {
 		transition: font-size 1s;
 	}
 
-	h1 a:hover {
+	h1:hover {
 	font-size: 120%;
 	}
 /*********************************************************************************/
@@ -560,7 +560,9 @@ hr {
 
 	#footer
 	{
+		opacity: .6;
 		color: #ADADAD;
+		transition: 2s;
 	}
 	
 	#footer .title h2
@@ -616,7 +618,9 @@ hr {
 	}
 
 
-
+	#footer {
+	opacity: 1;
+	}
 
 
 
